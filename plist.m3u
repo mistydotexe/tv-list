@@ -4,19 +4,19 @@
 https://d30aylox5wvifh.cloudfront.net/event/smil:ag1/playlist.m3u8?id=11
 #EXTINF:-1 tvg-id="RTM.my" tvg-logo="https://i.imgur.com/V2jREQ5.png" group-title="Undefined",RTM @ Paris 2 [Geo-blocked]
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
-https://d30aylox5wvifh.cloudfront.net/event/smil:ag1/playlist.m3u8?id=12
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag2/playlist.m3u8?id=12
 #EXTINF:-1 tvg-id="RTM.my" tvg-logo="https://i.imgur.com/V2jREQ5.png" group-title="Undefined",RTM @ Paris 3 [Geo-blocked]
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
-https://d30aylox5wvifh.cloudfront.net/event/smil:ag1/playlist.m3u8?id=13
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag3/playlist.m3u8?id=13
 #EXTINF:-1 tvg-id="RTM.my" tvg-logo="https://i.imgur.com/V2jREQ5.png" group-title="Undefined",RTM @ Paris 4 [Geo-blocked]
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
-https://d30aylox5wvifh.cloudfront.net/event/smil:ag1/playlist.m3u8?id=14
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag4/playlist.m3u8?id=14
 #EXTINF:-1 tvg-id="RTM.my" tvg-logo="https://i.imgur.com/V2jREQ5.png" group-title="Undefined",RTM @ Paris 5 [Geo-blocked]
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
-https://d30aylox5wvifh.cloudfront.net/event/smil:ag1/playlist.m3u8?id=15
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag5/playlist.m3u8?id=15
 #EXTINF:-1 tvg-id="RTM.my" tvg-logo="https://i.imgur.com/V2jREQ5.png" group-title="Undefined",RTM @ Paris 6 [Geo-blocked]
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
-https://d30aylox5wvifh.cloudfront.net/event/smil:ag1/playlist.m3u8?id=16
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag6/playlist.m3u8?id=16
 #EXTINF:-1 tvg-id="8TV.my" tvg-logo="https://i.imgur.com/Jkx9W88.png" group-title="MY TV",8TV (720p) [Geo-blocked]
 https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/live.isml/.m3u8
 #EXTINF:-1 tvg-id="AstroAwani.my" tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="MY TV",Astro Awani (720p)
