@@ -18,7 +18,7 @@ https://d30aylox5wvifh.cloudfront.net/event/smil:ag5/playlist.m3u8?id=15
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/playlist.m3u8?id=16
 #EXTINF:-1 tvg-id="8TV.my" tvg-logo="https://i.imgur.com/Jkx9W88.png" group-title="MY TV",8TV (720p) [Geo-blocked]
-https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/live.isml/.m3u8
+https://raw.githubusercontent.com/mistydotexe/tv-list/main/Misc/8.m3u
 #EXTINF:-1 tvg-id="AstroAwani.my" tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="MY TV",Astro Awani (720p)
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MY TV",Berita RTM (720p) [Not 24/7]
